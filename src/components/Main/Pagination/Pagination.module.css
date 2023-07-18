@@ -1,0 +1,9 @@
+.pages{
+    height: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-weight: 600;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.75);
+}
